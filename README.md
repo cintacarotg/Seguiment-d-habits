@@ -65,3 +65,7 @@ Criteris d'acceptació:
 - Persistència de dades al navegador/localStorage 🗃️  
 
 ---
+<<<<<<< HEAD
+=======
+
+>>>>>>> 06b30b5273a1508b88625b3854025d0b7d58d87d
