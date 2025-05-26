@@ -4,6 +4,9 @@ Aplicació desenvolupada amb **React** per ajudar-te a controlar i mantenir les 
 
 ---
 
+Link del repositori: https://github.com/cintacarotg/Seguiment-d-habits
+
+
 ## 💡 Prompts utilitzats
 
 <details>
