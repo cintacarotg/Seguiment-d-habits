@@ -23,7 +23,7 @@ Totes les dades s'han de guardar correctament i ser accessibles posteriorment.
 Segon prompt:
 
 
-Ara t'afegiré la segona especifació que vull, necesito que afegeixis les funcionalitats necessàries per complir aquesta història d'usuari. M'agradaria també que milloris l'aspecte visual.
+Ara t'afegiré la segona especificació que vull, necesito que afegeixis les funcionalitats necessàries per complir aquesta història d'usuari. M'agradaria també que milloris l'aspecte visual.
 Com a usuari, vull marcar hàbits com completats per saber si he seguit els meus objectius.
 
 Criteris d'acceptació:  
